@@ -6,4 +6,4 @@
 - 모바일 디바이스 (iOS, Android)
 - 콘솔 게임기(PlayStation 3) 
 
-자세한 내용은 [하드웨어 요구사항](https://developer.unigine.com/en/docs/1.0/start/hardware?rlang=cpp, "원문")([번역문서](./Hadware%20Requirement)) 문서를 확인하세요.
+자세한 내용은 [하드웨어 요구사항](https://developer.unigine.com/en/docs/1.0/start/hardware?rlang=cpp, "원문")([번역문서](./Hadware%20Requirement.md)) 문서를 확인하세요.
